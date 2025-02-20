@@ -62,3 +62,11 @@ Spor karşılaşmalarını ve haber kanallarını canlı olarak izleme imkânı 
 3. Kolay Kurulum: APK olarak indirilebildiği için birçok Android cihaza kolayca yüklenebilir.
 
 4. Mobil Uyumluluk: Akıllı telefon ve tabletlerde sorunsuz çalışarak hareket halindeyken de TV izleme imkânı sunar.
+
+
+
+### ***[İnat BOX İndir](https://github.com/inattv2025/inatbox/raw/refs/heads/main/inat-box-v14.apk)***
+
+
+### ***[İnat TV PRO İndir](https://github.com/inattv2025/inatbox/raw/refs/heads/main/inat-tv-pro-v21.apk)***
+
