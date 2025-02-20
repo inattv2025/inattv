@@ -1,4 +1,4 @@
-# İnat TV - Virüs YOK, Orijinal İnat TV İndir
+# İnat TV - Virüs Olmadan Orijinal İnat TV İndir
 
 ![inat tv](https://github.com/user-attachments/assets/5d430a11-68c7-434b-851a-3b9d90d909b6)
 
