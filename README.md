@@ -23,6 +23,7 @@
 
 ### ***[İnat TV PRO İndir](https://github.com/inattv2025/inatbox/raw/refs/heads/main/inat-tv-pro-v21.apk)***
 
+### ***[İnat TV](https://inattv.rest/)***
 
 #### İnat TV’nin Özellikleri
 
