@@ -18,7 +18,7 @@
 ## İnat TV, İnat TV İndir, İnat BOX indir, İnat TV Linki 📺
 
 
-### ***[İnat BOX İndir](https://github.com/inattv2025/inatbox/raw/refs/heads/main/inat-box-v14.apk)***
+### ***[İnat BOX İndir](https://github.com/inattv2025/inatbox/raw/refs/heads/main/inat-box-v15.apk)***
 
 
 ### ***[İnat TV PRO İndir](https://github.com/inattv2025/inatbox/raw/refs/heads/main/inat-tv-pro-v21.apk)***
@@ -66,7 +66,7 @@ Spor karşılaşmalarını ve haber kanallarını canlı olarak izleme imkânı 
 
 
 
-### ***[İnat BOX İndir](https://github.com/inattv2025/inatbox/raw/refs/heads/main/inat-box-v14.apk)***
+### ***[İnat BOX İndir](https://github.com/inattv2025/inatbox/raw/refs/heads/main/inat-box-v15.apk)***
 
 
 ### ***[İnat TV PRO İndir](https://github.com/inattv2025/inatbox/raw/refs/heads/main/inat-tv-pro-v21.apk)***
